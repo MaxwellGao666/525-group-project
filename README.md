@@ -92,15 +92,15 @@ The script automatically generates these comparison plots:
    *CrossEntropy vs KL Divergence training dynamics*
 
 2. **Learning Rate Impact**  
-   ![LR Comparison](https://via.placeholder.com/400x300?text=Learning+Rate+Effects)  
+   ![LR Comparison](images/2.png)  
    *Training loss and accuracy across different learning rates*
 
 3. **Batch Size Effects**  
-   ![Batch Size](https://via.placeholder.com/400x300?text=Batch+Size+Comparison)  
+   ![Batch Size](images/3.png)  
    *Model performance with varying batch sizes*
 
 4. **Sample Predictions**  
-   ![Predictions](https://via.placeholder.com/400x300?text=Prediction+Visualization)  
+   ![Predictions](images/4.png)  
    *True (T) vs Predicted (P) labels for test samples*
 
 ## License
