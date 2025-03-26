@@ -40,7 +40,7 @@ pip install tensorflow numpy matplotlib
 
 ## Project Structure
 ```
-├── kmnist_classification.py      # Main experiment code
+├── 525.py      # Main experiment code
 ├── README.md                     # This documentation
 └── (dataset files)               # KMNIST .npz files
 ```
