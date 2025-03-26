@@ -88,7 +88,7 @@ python kmnist_classification.py
 The script automatically generates these comparison plots:
 
 1. **Loss Function Comparison**  
-   ![Loss Comparison](https://via.placeholder.com/400x300?text=Loss+Curves+Example)  
+   ![Loss Comparison](images/1.png)  
    *CrossEntropy vs KL Divergence training dynamics*
 
 2. **Learning Rate Impact**  
